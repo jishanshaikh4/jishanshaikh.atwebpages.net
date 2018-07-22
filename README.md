@@ -1,4 +1,4 @@
-# https://jishanshaikh.atwebpages.com
+# jishanshaikh.atwebpages.com
 > Mine awesome personal web page.
 
 ## Sections
