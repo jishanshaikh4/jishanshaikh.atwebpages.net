@@ -2,8 +2,8 @@
 > Mine awesome personal web page.
 
 ## Sections
-- [Contributions]()
-- [License]
+- [Contributions](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#contributions)
+- [License](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#license)
 
 ## Contributions
 I'm willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
