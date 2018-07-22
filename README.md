@@ -16,7 +16,7 @@ I'm willing to accept contributions from open source developers. What you have t
 ## License
 This project is licensed under MIT Licence. You can not use, re-modify, distribute it for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
 
-    Copyright 2017-Present. Ankit Chouhan & Jishan Shaikh.
+    Copyright 2018-Present. Jishan Shaikh.
 
     MIT License
 
