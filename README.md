@@ -2,7 +2,7 @@
 > Mine awesome personal web page.
 
 ## Sections
-- [Just have a look at it](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#just-have-a-look-at-it)
+- [Just have a look at it](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#just-have-a-look-at-it-!)
 - [Contributions](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#contributions)
 - [License](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#license)
 
