@@ -6,7 +6,7 @@
 - [Contributions](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#contributions)
 - [License](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#license)
 
-## Just have a look at it !
+## Just have a look at it!
 
 ![](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/resources/Screenshot%20from%202018-07-23%2003-33-14.png)
 
