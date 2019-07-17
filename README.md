@@ -1,5 +1,5 @@
 # :link: jishanshaikh.atwebpages.com
-> Mine awesome personal web page. (WAIT FOR IT!)
+> Mine awesome personal web page. (WAIT FOR MORE SECTIONS!)
 
 ## Sections
 - [Just have a look at it](https://github.com/Jishanshaikh4/jishanshaikh.atwebpages.net/blob/master/README.md#just-have-a-look-at-it-!)
